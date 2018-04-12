@@ -1,7 +1,6 @@
 1. Fork & Clone
 1. Create a data model for the food truck review app below using diagramming software
 1. Replace `data_model.jpg` with your diagram
-1. Issue a pull request
 
 ## Business rules
 
